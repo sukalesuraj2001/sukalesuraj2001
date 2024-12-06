@@ -23,9 +23,9 @@
 
 ### .NET & Backend
 <p>
-  <img src="https://miro.medium.com/v2/resize:fit:512/1*doAg1_fMQKWFoub-6gwUiQ.png" alt=".NET" width="60" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCrK1HOtbxkCTSDpr8c8ayXSCybytmnNkSXw&s" alt="SQL Server" width="60" />
-  <img src="https://img.icons8.com/ios/452/visual-studio.png" alt="Visual Studio" width="60" />
+  <img src="https://miro.medium.com/v2/resize:fit:512/1*doAg1_fMQKWFoub-6gwUiQ.png" alt=".NET" width="80" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCrK1HOtbxkCTSDpr8c8ayXSCybytmnNkSXw&s" alt="SQL Server" width="80" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/2060px-Visual_Studio_Icon_2019.svg.png" alt="Visual Studio" width="80" />
 </p>
 
 ---
