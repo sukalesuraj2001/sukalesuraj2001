@@ -23,7 +23,7 @@
 
 ### .NET & Backend
 <p>
-  <img src="https://img.icons8.com/ios/452/dotnet.png" alt=".NET" width="60" />
+  <img src="https://miro.medium.com/v2/resize:fit:512/1*doAg1_fMQKWFoub-6gwUiQ.png" alt=".NET" width="60" />
   <img src="https://img.icons8.com/ios/452/sql-server.png" alt="SQL Server" width="60" />
   <img src="https://img.icons8.com/ios/452/visual-studio.png" alt="Visual Studio" width="60" />
 </p>
